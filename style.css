@@ -1,0 +1,49 @@
+    body {
+        background-image: url("Vegetto.png");
+        background-repeat: no-repeat;
+        background-color: #85c224;
+        background-position: right top;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    
+    .verde {
+        color: rgb(104, 61, 70);
+        font-size: 42px;
+    }
+    
+    h1 {
+        color: #da0b49;
+        font-weight: bold;
+        font-size: 60px;
+        text-align: center;
+    }
+    
+    p {
+        color: rgb(89, 8, 156);
+        font-weight: bold;
+        font-size: 50px;
+    }
+    
+    #p2 {
+        text-align: center;
+        text-decoration: underline;
+    }
+    
+    #p1 {
+        text-decoration: underline;
+        color: #406309;
+        text-align: center;
+    }
+    /* Usar css por elemento(Tag),por classe(todos os elementos
+incoporarem uma classe .nome e por id (indivual) #nomeid */
+    
+    button {
+        font-style: bold;
+        font-size: 25px;
+        text-align: center;
+        border: 5px solid #206b4c75;
+        position: static;
+        border-radius: 5px;
+        font-weight: bold, italic;
+    }
